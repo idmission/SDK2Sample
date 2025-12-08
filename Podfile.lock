@@ -29,8 +29,8 @@ PODS:
     - GoogleUtilities/Privacy
   - GTMSessionFetcher/Core (3.5.0)
   - GZIP (1.3.2)
-  - IDentityModels (10.1.16.2.2)
-  - IDentitySDK2.0 (10.1.16.2.2)
+  - IDentityModels (10.1.24.2.3)
+  - IDentitySDK2.0 (10.1.24.2.3)
   - MLImage (1.0.0-beta8)
   - MLKitCommon (14.0.0):
     - GoogleDataTransport (~> 10.0)
@@ -126,8 +126,8 @@ SPEC CHECKSUMS:
   GoogleUtilities: 00c88b9a86066ef77f0da2fab05f65d7768ed8e1
   GTMSessionFetcher: 5aea5ba6bd522a239e236100971f10cb71b96ab6
   GZIP: 3c0abf794bfce8c7cb34ea05a1837752416c8868
-  IDentityModels: 9ca1da8c15440353de610cf6c34a5d2aa1b00dfa
-  IDentitySDK2.0: 55292087158bdce221ce10fda8d8c2d705cce2db
+  IDentityModels: abd24d3b738291c2129213d20b735f4cc988256e
+  IDentitySDK2.0: 68daa81f9c9f4e041cc27939564077e54011277c
   MLImage: 0de5c6c2bf9e93b80ef752e2797f0836f03b58c0
   MLKitCommon: 47d47b50a031d00db62f1b0efe5a1d8b09a3b2e6
   MLKitFaceDetection: 32549f1e70e6e7731261bf9cea2b74095e2531cb
